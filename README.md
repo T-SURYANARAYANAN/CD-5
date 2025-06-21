@@ -1,7 +1,7 @@
 # Ex-3 Recognization of Valid Arithmetic Expression
-RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
+RECOGNITION OF THE Valid Expressiong  USING YACC
 # Aim:
-To write a YACC program to recognize the grammar anb where n>=10.
+To write a YACC program to recognize the Expression anb where n>=10.
 # ALGORITHM
 1.	Start the program.
 2.	Write a program in the vi editor and save it with .l extension.
